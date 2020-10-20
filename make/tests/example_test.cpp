@@ -1,4 +1,5 @@
-#include "example.hpp"
+#include <example.hpp>
+#include <stdio.h>
 
 int main(int argc, char ** argv)
 {
